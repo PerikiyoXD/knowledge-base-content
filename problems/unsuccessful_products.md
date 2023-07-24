@@ -30,35 +30,35 @@ About one-third of new products turn out to be unprofitable. It can be caused by
 
 ## Why Do Some Products Fail?
 
-#### Poor Product Quality
+### Poor Product Quality
 
 Of course, poor quality products are not successful.
 
-#### High Price
+### High Price
 
 Higher production and distribution costs can cause a product's higher price. It will be difficult to sell such a product to middle- and lower-income buyers.
 
-#### Wrong Timing
+### Wrong Timing
 
 In the case the product is introduced at an unsuitable time, it can easily fail. It is important to choose the correct time for its promotion.
 
-#### Inherent Defect
+### Inherent Defect
 
 Possible inherent defects can disqualify the product and turn it to be a failure. Buyers can avoid the product even if the defect is fixed later.
 
-#### Big Competition
+### Big Competition
 
 In the case there are many similar products, the buyer will have many alternatives. In such a condition, the product can be unsuccessful.
 
-#### Lack of Promotion
+### Lack of Promotion
 
 It is very important to promote the product, especially in the introduction stage. If the appropriate promotion is neglected, the product can easily fail.
 
-#### Poor Support
+### Poor Support
 
 Support quality is another important thing. Non-existent or poor support can ruin the product's reputation.
 
-#### Failure to Understand Consumer Needs and Wants
+### Failure to Understand Consumer Needs and Wants
 
 Blinded by their visions, some companies ignore negative user feedback. Their products can easily fail to meet customers' needs and wants.
 
